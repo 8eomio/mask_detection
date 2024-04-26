@@ -1,6 +1,5 @@
 # Who is Good Masker
-
-![0bc8d1b7-4134-411c-9094-edcde243c053](https://github.com/8eomio/mask_detection/assets/61742009/fa69dba0-dc9a-4134-a371-f1200e554913)
+![0bc8d1b7-4134-411c-9094-edcde243c053](https://github.com/8eomio/mask_detection/assets/61742009/c4092df7-58b4-4dd6-96b8-7bb916e57a2b)
 
 ## Who is Good Masker: Discriminate whether people wear masks well
 **Objective**: Develop a real-time mask detection system using CNN to monitor mask compliance in public spaces.
