@@ -1,5 +1,7 @@
 # Who is Good Masker
-![0bc8d1b7-4134-411c-9094-edcde243c053](https://github.com/8eomio/mask_detection/assets/61742009/c4092df7-58b4-4dd6-96b8-7bb916e57a2b)
+![image](https://github.com/8eomio/mask_detection/assets/61742009/f079d16e-af6e-4e40-8798-86dd4c426c0d)
+
+
 
 ## Who is Good Masker: Discriminate whether people wear masks well
 **Objective**: Develop a real-time mask detection system using CNN to monitor mask compliance in public spaces.
@@ -31,3 +33,6 @@ pip install matplotlib
 pip install torchvision
 pip install cvlib
 pip install tensorflow
+
+## demonstration 
+![0bc8d1b7-4134-411c-9094-edcde243c053](https://github.com/8eomio/mask_detection/assets/61742009/c4092df7-58b4-4dd6-96b8-7bb916e57a2b)
